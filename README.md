@@ -50,7 +50,7 @@
 
 ---
 
-### 📈 &nbsp;Meus dados
+[comment]: ### 📈 &nbsp;Meus dados
 
 [comment]: <p align="center">
 [comment]:  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dogeil&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
