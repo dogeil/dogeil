@@ -9,7 +9,7 @@
 ### 💻 &nbsp;About me
 
 - 🤔 &nbsp;I'm always learning new things, I pick up new content quickly
-- 🎓 &nbsp;Planning to start Mechatronics Engineering at UNB
+- 🎓 &nbsp;Planning to start studying Mechatronics Engineering at UNB
 - 🕹 &nbsp;I create and develop games in my free time for fun and passion
 
 ---
