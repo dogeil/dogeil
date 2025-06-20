@@ -1,6 +1,6 @@
 ## 👋 Salve pessoal | Hello everyone 👋
 
-![hippo](https://i.pinimg.com/originals/e2/1e/db/e21edba2170dba2d93d9a8ef731959bd.gif)
+ <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://i.pinimg.com/originals/e2/1e/db/e21edba2170dba2d93d9a8ef731959bd.gif"/>
 
 ---
 <details>
