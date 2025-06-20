@@ -109,10 +109,9 @@
 
 ---
 
-<!-- GitHub Stats
+### GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dogeil&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dogeil&show_icons=true&theme=radical&count_private=false" alt="GitHub Stats" />
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogeil&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogeil&layout=compact&theme=radical&count_private=false" alt="Top Languages" />
 </p>
--->
