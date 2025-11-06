@@ -14,11 +14,11 @@
 - 🎓 &nbsp;Planning to start studying Mechatronics Engineering at UNB
 - 🕹 &nbsp;I create and develop games in my free time for fun and passion
   
-- 🏆 &nbsp;I've participated in many tournaments and competitions involving programming and engineering, some examples:
-  FLL (First Lego League) Regional Stage - 1st place in robot playoffs
-  F1 in Schools National Stage - 9th fastest car; Chair of Judges Recognition of Achievement Award
-  OBT (Brazillian Technology Olympiad) - Passed the 2nd National Stage with a mobile app prototype
-  And many more!
+- 🏆 &nbsp;I've participated in many tournaments and competitions involving programming and engineering, some examples:  
+  FLL (First Lego League) Regional Stage - 1st place in robot playoffs  
+  F1 in Schools National Stage - 9th fastest car; Chair of Judges Recognition of Achievement Award  
+  OBT (Brazillian Technology Olympiad) - Passed the 2nd National Stage with a mobile app prototype  
+  And many more!  
 
 ---
 
@@ -73,11 +73,11 @@
 - 🎓 &nbsp;Busco começar a fazer Engenharia Mecatrônica na UNB
 - 🕹 &nbsp;Crio e desenvolvo jogos no meu tempo livre por paixão
   
-- 🏆 &nbsp; Já participei de muitos torneios e competições envolvendo programação e engenharia, alguns exemplos:
-  FLL (First Lego League) Etapa Regional - 1º lugar no desafio do robô
-  F1 in Schools Etapa Nacional - 9º carro mais rápido; Prêmio Reconhecimento de Conquista do Comitê dos Juízes
-  OBT (Olimpíada Brasileira de Tecnologia) - Aprovado na 2ª Etapa Nacional com um protótipo de aplicativo mobile
-  E muito mais!
+- 🏆 &nbsp; Já participei de muitos torneios e competições envolvendo programação e engenharia, alguns exemplos:  
+  FLL (First Lego League) Etapa Regional - 1º lugar no desafio do robô  
+  F1 in Schools Etapa Nacional - 9º carro mais rápido; Prêmio Reconhecimento de Conquista do Comitê dos Juízes  
+  OBT (Olimpíada Brasileira de Tecnologia) - Aprovado na 2ª Etapa Nacional com um protótipo de aplicativo mobile  
+  E muito mais!  
 
 ---
 
