@@ -18,7 +18,8 @@
   
   - FLL (First Lego League) Regional Stage - 1st place in robot playoffs  
   - F1 in Schools National Stage - 9th fastest car; Chair of Judges Recognition of Achievement Award  
-  - OBT (Brazillian Technology Olympiad) - Passed the 2nd National Stage with a mobile app prototype  
+  - OBT (Brazillian Technology Olympiad) - Passed the 2nd National Stage with a mobile app prototype
+  
   And many more!  
 
 ---
@@ -78,7 +79,8 @@
   
   - FLL (First Lego League) Etapa Regional - 1º lugar no desafio do robô  
   - F1 in Schools Etapa Nacional - 9º carro mais rápido; Prêmio Reconhecimento de Conquista do Comitê dos Juízes  
-  - OBT (Olimpíada Brasileira de Tecnologia) - Aprovado na 2ª Etapa Nacional com um protótipo de aplicativo mobile  
+  - OBT (Olimpíada Brasileira de Tecnologia) - Aprovado na 2ª Etapa Nacional com um protótipo de aplicativo mobile
+  
   E muito mais!  
 
 ---
